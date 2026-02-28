@@ -1,2 +1,2 @@
 import sys
-!{sys.executable} -m uv pip install roboflow
+!{sys.executable} -m pip install uv
